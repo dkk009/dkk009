@@ -1,15 +1,17 @@
 - 👋 Hi, I’m a software engineer originally from Bangalore, India, holding 9+ years of experience in Android development, 4+ yeaars of experience in Kotlin development
 - 👀 Inetrested in 
-  -  [X] Android
-  -  [X] Kotlin
-  -  [X] Kotlin mutliplatform for mobile
+    * Android
+    * Kotlin
+    * Kotlin multiplatform for mobile
+    
 - 🌱 I’m currently learning
-   -  [X] Compose
-   -  [X] KMM
-   -  [X] Flask
+    * Compose
+    * KMM
+    * Flask
+   
 - 📫 How to reach me ...
-   - (Twitrter)[https://twitter.com/dkk009]
-   - (Gmail)[dkk009@gmail.com]
+   - [Twitter](https://twitter.com/dkk009)
+   - [Gmail](dkk009@gmail.com)
       
 
 <!---
