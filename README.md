@@ -1,5 +1,5 @@
-- 👋 Hi, I’m a software engineer originally from Bangalore, India, holding 9+ years of experience in Android development, 4+ yeaars of experience in Kotlin development
-- 👀 Inetrested in 
+- 👋 Hi, I’m a software engineer originally from Bangalore, India, holding 11+ years of experience in Android development, 4+ yeaars of experience in Kotlin development
+- 👀 Interested in 
     * Android
     * Kotlin
     * Kotlin multiplatform for mobile
